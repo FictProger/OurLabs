@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-//comment
+//comment at line 10
 func main() {
 
 	type Result struct {
