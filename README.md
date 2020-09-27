@@ -1,9 +1,7 @@
 # OurLabs
-<<<<<<< HEAD
-## Contributors:
-
-Cherevach - Анатолій Черевач</br>
-=======
+Cherevach - Анатолій Черевач
 
 MrILL - Ілля Стародубець
->>>>>>> a28d6ce... add author
+
+Roman - Роман Каплинський
+
