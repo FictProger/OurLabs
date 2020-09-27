@@ -6,6 +6,3 @@ Cherevach - Анатолій Черевач
 MrILL - Ілля Стародубець
 
 Roman - Роман Каплинський
-test rebase
-
-texttexttext

@@ -11,7 +11,7 @@ import (
 func main() {
 
 	type Result struct {
-		Time string `json:"time"` 
+		Time string `json:"time"`
 	}
 
 	http.HandleFunc("/time", func(rw http.ResponseWriter, r *http.Request) {
